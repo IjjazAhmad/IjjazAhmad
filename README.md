@@ -15,9 +15,9 @@
 
 🎨 Portfolio: https://ijjazahmad11.web.app/
 
-💼 LinkedIn: 
+💼 LinkedIn: www.linkedin.com/in/ijjazahmad
 
-📷 Instagram : 
+📷 Instagram : www.instagram.com/ch_ijjazahmad
  
 <h2>Tech Stack</h2>
 
