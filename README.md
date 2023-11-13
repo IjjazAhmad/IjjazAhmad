@@ -56,7 +56,7 @@
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/ijjazahmad/" ><img src="https://img.shields.io/badge/ijjazahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ijjazahmad705@gmail.com"><img src="https://img.shields.io/badge/ijjazahmad-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:ijjazahmad705@gmail.com" ><img src="https://img.shields.io/badge/ijjazahmad-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/ch_ijjazahmad"><img src="https://img.shields.io/badge/-@ijjazahmad-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/ijjaz.ahmad.7902/"><img src="https://img.shields.io/badge/ijjazahmad-00B2FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://twitter.com/ijjaz_ahmad"><img src="https://img.shields.io/badge/ijjazahmad-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
