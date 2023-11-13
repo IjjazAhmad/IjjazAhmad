@@ -55,7 +55,7 @@
 </table>
 </p>
 <p align="center">
-<a href="www.linkedin.com/in/ijjazahmad"><img src="https://img.shields.io/badge/ijjazahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ijjazahmad/"><img src="https://img.shields.io/badge/ijjazahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ijjazahmad705@gmail.com"><img src="https://img.shields.io/badge/ijjazahmad-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="www.instagram.com/ch_ijjazahmad"><img src="https://img.shields.io/badge/-@ijjazahmad-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/ijjazahmad-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/></a>
