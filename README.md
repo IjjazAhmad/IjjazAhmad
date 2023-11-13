@@ -11,7 +11,7 @@
 
 📓 I’m currently learning TypeScript and Genrative AI... 😭
 
-📧 ijjazahmad705@gmail.com
+📧  <a href="mailto:ijjazahmad705@gmail.com">Send email</a>
 
 🎨 Portfolio: https://ijjazahmad11.web.app/
 
