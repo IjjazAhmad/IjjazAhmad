@@ -11,7 +11,7 @@
 
 📓 I’m currently learning TypeScript and Genrative AI... 😭
 
-📧  <a href="mailto:ijjazahmad705@gmail.com" target="blank">ijjazahmad705@gmail.com</a>
+📧 mailto:  <a href="mailto:ijjazahmad705@gmail.com" target="blank">ijjazahmad705@gmail.com</a>
 
 🎨 Portfolio: https://ijjazahmad11.web.app/
 
@@ -23,6 +23,9 @@
 
 <table width="100">
 <tr>
+  <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
+    </td>
  <td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
@@ -32,9 +35,7 @@
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
-    </td>
+    
  
 </tr>
  
