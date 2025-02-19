@@ -17,7 +17,7 @@
 
 💼 LinkedIn: www.linkedin.com/in/ijjazahmad
 
-📷 Instagram : www.instagram.com/ch_ijjazahmad
+📷 Instagram: www.instagram.com/ch_ijjazahmad
  
 <h2>Tech Stack</h2>
 
