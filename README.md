@@ -19,7 +19,7 @@
 
 📷 Instagram: www.instagram.com/ch_ijjazahmad
  
-<h2>Tech Stack</h2>
+<h2>Tech Stack </h2>
 
 <table width="100">
 <tr>
