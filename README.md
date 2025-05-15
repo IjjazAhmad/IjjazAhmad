@@ -12,7 +12,7 @@
 📓 I’m currently learning python... 😭
 📧 mailto:  <a href="mailto:ijjazahmad705@gmail.com" target="blank">ijjazahmad705@gmail.com</a>
 
-🎨 Portfolio: https://ijjazahmad11.web.app/
+🎨 Portfolio: https://chijjazahmad.vercel.app/
 
 💼 LinkedIn: www.linkedin.com/in/ijjazahmad
 
