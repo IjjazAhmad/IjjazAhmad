@@ -7,7 +7,7 @@
 
 💸 NEW SELLER of full Stack Developer on Fiverr
 
-✨ Favorite Tech: TS,Js, Node.js React, Next.js, React Native
+✨ Favorite Tech: TS,Js, Node.js React, Next.js, React Native 
 
 📓 I’m currently learning python... 😭
 📧 mailto:  <a href="mailto:ijjazahmad705@gmail.com" target="blank">ijjazahmad705@gmail.com</a>
