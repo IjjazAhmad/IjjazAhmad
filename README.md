@@ -1,93 +1,39 @@
-<body>
-  <div align="center">
-    <h1> Hi there, I'm Ijjaz Ahmad 👋 </h1>
-  </div>
-<p align="center">
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 
-💸 Rising Talent on Upwork as full Stack Developer
+[![](https://github.com/IjjazAhmad/IjjazAhmad/blob/96c8c864626cba93e402bddacf68ea9dd9d21d07/profile.gif)](https://chijjazahmad.vercel.app/)<!-- If you want the template for my gif, email me! -->
 
-✨ Favorite Tech: TS,Js, Node.js React, Next.js, React Native 
+### Languages
 
-📓 I’m currently learning python... 😭
-📧 mailto:  <a href="mailto:ijjazahmad705@gmail.com" target="blank">ijjazahmad705@gmail.com</a>
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-🎨 Portfolio: https://chijjazahmad.vercel.app/
+### Technologies
 
-💼 LinkedIn: www.linkedin.com/in/ijjazahmad
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-📷 Instagram: www.instagram.com/ch_ijjazahmad
- 
-<h2>Tech Stack </h2>
+### Full Stack Projects
 
-<table width="100">
-<tr>
-  <td align='center' width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="50">
-    </td>
- <td align='center' width="100">
-        <img src="https://icons.iconarchive.com/icons/ampeross/qetto/256/css-icon.png" width="50">
-    </td>
-<td align='center' width="100">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="50">
-    </td>
- <td align='center' width="100">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="50">
-    </td>
-    <td align='center' width="100">
-        <img src="https://icons.iconarchive.com/icons/arturo-wibawa/akar/256/nextjs-icon.png" width="50">
-    </td>
-    <td align='center' width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50">
-    </td>
-    <td align='center' width="100">
-        <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" width="50">
-    </td>
-    <td align='center' width="100">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsPCoV08UXunOoFFsE5_YckwIYJWcx6bXa-w&s" width="150">
-    </td>
-    <td align='center' width="100">
-        <img src="https://github.com/IjjazAhmad/IjjazAhmad/assets/102515357/c00cc058-90fe-4246-8b87-2ee564ac2f89" width="50">
-    </td>
-    <td align='center' width="100">
-        <img src="https://firebase.google.com/images/lockup.svg" width="100">
-    </td>
- 
-</tr>
-<tr>
-    <td align='center' width="100">
-        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-2950150-2447911.png?f=webp" width="50">
-    </td>
-    <td align='center' width="100">
-        <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" width="50">
-    </td>
-    <td align='center' width="100">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-sass-13-1175092.png"  width="50">
-    </td>
-    <td align='center' width="100">
-        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-9294852-7577995.png?f=webp" width="50">
-    </td>
-    <td align='center' width="100">
-        <img src="https://uploads-ssl.webflow.com/602a49b4c90708f6641a192e/62aaec4339a8f3b14347736a_123_ant-design.259fccdbe1.png" width="50">
-    </td>
-    <td align='center' width="100">
-        <img src="https://img.freepik.com/premium-psd/api-setting-3d-icon_136651-1168.jpg" width="50">
-    </td>
-    <td align='center' width="100">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-yZJb0qg2Adf0RP5FeN5N5o7wmJDircWo5g&s" width="150">
-    </td>
-    <td align='center' width="100">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3628992-3030217.png"  width="50">
-    </td>
-   <td align='center' width="100">
-        <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="50">
-    </td>
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/IjjazAhmad/chijjazahmad)
+[![](https://img.shields.io/badge/-⏰%20Calendly%20Dashboard-000)](https://github.com/IjjazAhmad/CalendlyClone)
+[![](https://img.shields.io/badge/-📊%20Ecomerce%20website-000)](https://github.com/IjjazAhmad/androidworlduae)
+[![](https://img.shields.io/badge/-🪟%20Ai%20HomeworkHelper-000)](https://www.homeworkrabbit.com)
+[![](https://img.shields.io/badge/-🧑‍🎨%20Beauty%20Artists%20website-000)](https://coverclap.com)
+[![](https://img.shields.io/badge/-📙%20Quran%20Athan%20Prayer-000)](https://play.google.com/store/apps/details?id=com.rafiqapp&hl=en_US&pli=1)
+[![](https://img.shields.io/badge/-✨%20FreeToolZone-000)](https://freetoolzone.com/)
 
-</tr>
 
-    
-</table>
-</p>
+
+<a href="https://chijjazahmad.vercel.app"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=IjjazAhmad&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IjjazAhmad&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+<br>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/ijjazahmad/" ><img src="https://img.shields.io/badge/ijjazahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ijjazahmad705@gmail.com" ><img src="https://img.shields.io/badge/ijjazahmad-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
